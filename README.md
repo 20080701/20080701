@@ -1,16 +1,30 @@
-### Hi there 👋
+!DOCTYPE html>
+<hmtl lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura</title>
+        <link rel="stylesheet" href="tyle.css">
+    </head>
 
-<!--
-**20080701/20080701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <body>
+        <header>
+            <h1 class="titulo-principal">Barbearia Alura</h1>
+          </header>
+          <img id="benner" rsc="benner.jpg">
+          <div class="principal">
+              <h2 class="titulo-centralizado">Sobre a Barbearia Alura/h2>
 
-Here are some ideas to get you started:
+              <p>Localizada no coração da cidade a<trong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, A Barbearia Alura já em destaque na cidade e conquista novos clientes a cada dia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              <p id="missão"><em>Nossa missão é: <strong>“Proporcionar auto-estima e qualidade de vida aos clientes”</strong>.</em></p>
+              <p>Oferecemos profissionais experientes e atentados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade a satisfação dos nossos clientes.</p>     
+          
+          </div>
+
+          <div class="beneficios">
+              <h3 cla="titulo-contraliado">Beneicios</h3>
+
+              <ul>
+                  <li class="itens">Atendimento aos Clientes</li>
+                  <li class="itens">Espaço diferenciado</li>
+                  <li class="itens">
